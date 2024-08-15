@@ -1,4 +1,3 @@
-// src/components/FormVagas/index.tsx
 import { FormEvent, useState } from 'react'
 import { Form, Input, Button } from './FormVagas.styles'
 

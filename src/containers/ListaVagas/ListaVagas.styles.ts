@@ -1,4 +1,3 @@
-// src/containers/ListaVagas/ListaVagas.styles.ts
 import styled from 'styled-components'
 
 export const VagasContainer = styled.ul`

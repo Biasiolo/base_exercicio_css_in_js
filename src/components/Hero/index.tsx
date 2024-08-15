@@ -1,4 +1,3 @@
-// src/components/Hero/index.tsx
 import { HeroForm, HeroContent, HeroTitle } from './Hero.styles'
 
 const Hero = () => (
